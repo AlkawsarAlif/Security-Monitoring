@@ -1,0 +1,5 @@
+Firstly we will use here Putty for cli and also use winscp for file transfer from windows to linux.
+
+Now we need to download access.log file in windows and we will transer this file to linux using winscp.
+we found an log file in github and download it.
+Then transfer that file to linux using Winscp before transfer we should create a directory in linux.
